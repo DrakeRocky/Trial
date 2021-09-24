@@ -1,0 +1,28 @@
+@import "index.css";
+div {
+  border-width: 20px;
+}
+#intro {
+  font-size: larger;
+  font-style: oblique;
+  color: purple;
+}
+h1 {
+  color: darkcyan;
+  background-color: black;
+}
+h2 {
+  color: azure;
+}
+#new {
+  font-size: medium;
+  font-style: italic;
+  background-position: center;
+  background-color: black;
+
+}
+#green {
+  color: rgb(198, 231, 164);
+}
+#blue {
+  color: rgb(146, 180, 245);

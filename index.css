@@ -1,0 +1,10 @@
+body {
+  background: radial-gradient(ellipse at bottom, #f1f3f5 0%, #f86ee1 100%);
+  height: 100vh;
+  overflow: hidden;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  font-family: "Anton", sans-serif;
+  justify-content: center;
+  align-items: center;
+}
